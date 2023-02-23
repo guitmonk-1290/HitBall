@@ -30,3 +30,5 @@ Apart from these, the game also includes:
 
     • Multiple (customizable) levels
 
+
+![Screenshot 2023-02-23 172108](https://user-images.githubusercontent.com/104564065/220898105-fe158fd1-5f14-4809-9414-9e8e0c84d621.png)
